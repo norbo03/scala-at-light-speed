@@ -1,4 +1,4 @@
-package com.rockthejvm
+package edu.learn
 
 object Basic extends App {
   // What is the difference between a class and an object?
